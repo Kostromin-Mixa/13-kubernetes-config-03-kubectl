@@ -1,1 +1,1 @@
-# 13-kubernetes-config-03-kubectl
+# Домашнее задание к занятию "13.3 работа с kubectl"
